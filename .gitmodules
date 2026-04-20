@@ -1,0 +1,12 @@
+[submodule "apps/website"]
+	path = apps/website
+	url = https://github.com/Dhruv-Omnenest/website-repo.git
+[submodule "apps/website1"]
+	path = apps/website1
+	url = https://github.com/Dhruv-Omnenest/website1-repo.git
+[submodule "packages/utils"]
+	path = packages/utils
+	url = https://github.com/Dhruv-Omnenest/utils-repo.git
+[submodule "packages/ui"]
+	path = packages/ui
+	url = https://github.com/Dhruv-Omnenest/ui-repo.git
